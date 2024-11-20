@@ -1,6 +1,6 @@
-Hello, Space Monkeys! 🧑‍🚀🐒
-Welcome to my GitHub repository!
-As the first rule of my profile: ~~don’t~~ **talk** about this profile! 🧼
+Hello, Space Monkeys! 🧑‍🚀🐒  
+Welcome to my GitHub repository!  
+As the first rule of my profile: ~~don’t~~ **talk** about this profile! 🧼  
 
 About Me
 🌐 Developer in progress with a focus on React, Tailwind CSS, and Framer Motion.
@@ -26,4 +26,4 @@ Python frameworks with Django and database management using SQL.
 Creating RESTful APIs with Django Rest Framework.
 DevOps Tools:
 Version control with Git and GitHub.
-Container creation and management with Docker
+Container creation and management with Docker.
